@@ -32,7 +32,6 @@ describe Artimis::Camera do
 
     describe "by number" do
       before do
-        # TODO: stub this
         @camera = Artimis::Camera.find(:id => 23)
       end
 
