@@ -1,7 +1,8 @@
 require 'bundler/setup'
 require 'minitest/autorun'
-require 'artimis'
+require 'turn'
 require 'fakeweb'
+require 'artimis'
 
 FakeWeb.allow_net_connect = false
 

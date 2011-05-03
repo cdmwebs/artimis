@@ -1,6 +1,5 @@
 module Artimis
   class Camera
-
     class << self
       attr_writer :url
 
