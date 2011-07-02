@@ -13,9 +13,15 @@ module Artimis
 
       def find(params = {})
         if params[:description]
-          page.links_with(:text => params[:description])
+          cameras = []
+          page.links_with(:text => params[:description]).each do |link|
+            camera_page = link.click
+            cameras << new(camera_page, :url => link.href, :description => link.text)
+          end
+          cameras
         elsif params[:id]
           link = page.link_with(:href => /camera#{params[:id]}/)
+          return nil unless link
           camera_page = link.click
           new(camera_page, :url => link.href, :description => link.text)
         end
@@ -39,8 +45,8 @@ module Artimis
     attr_reader :url, :description, :image_url
 
     def initialize(page, params = {})
-      self.description = params[:description] || page.title
-      self.url = params[:url] || page.title
+      self.description = params[:description] || page.to_s
+      self.url = params[:url] || page.href
 
       page.images.each do |i|
         self.image_url = i.url if i.node.attributes["name"]

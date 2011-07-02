@@ -1,0 +1,417 @@
+HTTP/1.1 200 OK
+Date: Sat, 02 Jul 2011 03:03:37 GMT
+Server: Apache/2.0.52 (Red Hat)
+X-Powered-By: PHP/4.3.9
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML lang="en-US">
+<HEAD>
+
+  <TITLE>ARTIMIS Camera Page</TITLE>
+  <meta http-equiv="content-type" content="text/html;charset=iso-8859-1" />
+  <meta http-equiv="REFRESH" CONTENT="60">
+  <meta name="classification" content="Traffic Management Systems, Intelligent Transportation Systems" />
+  <meta name="keywords" content="ARTIMIS, Cincinnati, Northern Kentucky, CCTV, Camera" />
+  <meta name="generator" content="Greater Cincinnati-Northern Kentucky Traffic Information" />
+  <meta name="author" content="R. Scott Evans" />
+  <link rel="shortcut icon"  type="image/ico" href="/favicon.ico" />
+  <script type="text/javascript" language="Javascript">
+  <!--
+  image_name = "http://cmhimg01.dot.state.oh.us/images/artimis/CCTV099.jpg";
+  // -->
+  </script>
+  <script type="text/javascript" src="/ReloadImage.js"></script>
+<script language="javascript">
+function nwpage(cpage) {
+  var someFeatures = 'resizable=yes,toolbar=yes,location=0,directories=0,status=no,menubar=no,scrollbars=yes,copyhistory=0';
+  var thePageName = cpage;
+  var theWindowName = cpage;
+  myWindow = window.open(thePageName,"nwpage",someFeatures);
+  myWindow.location = thePageName;
+}
+function nwpage1(cpage) {
+  var win_left = (screen.width);
+  var win_top = (screen.height);
+  var someFeatures = 'resizable=yes,toolbar=yes,location=0,directories=0,status=no,menubar=no,scrollbars=yes,copyhistory=0';
+  var thePageName = cpage;
+  var theWindowName = cpage;
+  myWindow = window.open(thePageName,"nwpage1",someFeatures);
+  myWindow.location = thePageName;
+}
+function nwpage2(cpage) {
+  var win_left = (screen.width);
+  var win_top = (screen.height);
+  var someFeatures = 'resizable=yes,toolbar=yes,location=0,directories=0,status=no,menubar=no,scrollbars=yes,copyhistory=0';
+  var thePageName = cpage;
+  var theWindowName = cpage;
+  myWindow = window.open(thePageName,"nwpage2",someFeatures);
+  myWindow.location = thePageName;
+}
+function nwpage3(cpage) {
+  var win_left = (screen.width);
+  var win_top = (screen.height);
+  var someFeatures = 'resizable=yes,toolbar=yes,location=0,directories=0,status=no,menubar=no,scrollbars=yes,copyhistory=0';
+  var thePageName = cpage;
+  var theWindowName = cpage;
+  myWindow = window.open(thePageName,"nwpage3",someFeatures);
+  myWindow.location = thePageName;
+}
+function nwpage4(cpage) {
+  var win_left = (screen.width);
+  var win_top = (screen.height);
+  var someFeatures = 'resizable=yes,toolbar=yes,location=0,directories=0,status=no,menubar=no,scrollbars=yes,copyhistory=0';
+  var thePageName = cpage;
+  var theWindowName = cpage;
+  myWindow = window.open(thePageName,"nwpage4",someFeatures);
+  myWindow.location = thePageName;
+}
+function nwpage5(cpage) {
+  var win_left = (screen.width);
+  var win_top = (screen.height);
+  var someFeatures = 'resizable=yes,toolbar=yes,location=0,directories=0,status=no,menubar=no,scrollbars=yes,copyhistory=0';
+  var thePageName = cpage;
+  var theWindowName = cpage;
+  myWindow = window.open(thePageName,"nwpage5",someFeatures);
+  myWindow.location = thePageName;
+}
+function poppage(cpage) {
+  var someFeatures = 'resizable=no,toolbar=no,location=0,screenX=100,screenY=100,directories=0,width=300,height=500,status=no,menubar=no,scrollbars=yes,copyhistory=0';
+  var thePageName = cpage;
+  var theWindowName = cpage;
+  myWindow = window.open(thePageName,"nwpage",someFeatures);
+  myWindow.location = thePageName;
+}
+function poppage1(cpage) {
+  var someFeatures = 'resizable=no,toolbar=no,location=0,screenX=300,screenY=300,directories=0,width=440,height=330,status=no,menubar=no,scrollbars=no,copyhistory=0';
+  var thePageName = cpage;
+  var theWindowName = cpage;
+  myWindow = window.open(thePageName,"nwpage",someFeatures);
+  myWindow.location = thePageName;
+}
+</script>
+
+</HEAD>
+<BODY BGCOLOR=WHITE TEXT=BLACK ALINK=GREEN VLINK=BLUE LINK=RED onLoad="reloadImage()">
+
+<TABLE WIDTH=630 CELLSPACING=0 CELLPADDING=0 BORDER=0 ALIGN=CENTER>
+  <TR>
+    <TD WIDTH=75 ALIGN=LEFT VALIGN=TOP BGCOLOR=ccccff><IMG SRC=/images/tleft.gif></TD>
+    <TD WIDTH=75 ALIGN=RIGHT VALIGN=TOP BGCOLOR=ccccff><IMG SRC=/images/tright.gif></TD>
+    <TD WIDTH=480 ALIGN=CENTER ROWSPAN=2><IMG SRC=/images/small.gif></TD>
+  </TR>
+  <TR>
+    <TD COLSPAN=2 WIDTH=150 VALIGN=TOP BGCOLOR=ccccff ALIGN=CENTER VALIGN=CENTER>
+July 01, 2011<BR>11:03 PM    </TD>
+  </TR>
+  <TR>
+    <TD COLSPAN=2 WIDTH=150 VALIGN=TOP BGCOLOR=ccccff ALIGN=CENTER>
+<TABLE WIDTH=100% CELLPADDING=2 BORDER=0 CELLSPACING=0>
+<TR><TD ALIGN=LEFT><A HREF=/index.php><FONT SIZE=-1 FACE=ARIAL COLOR=000000>Home</FONT></A></TD></TR>
+<TR><TD HEIGHT=10></TD></TR>
+<TR><TD ALIGN=LEFT><A HREF=/traffic.php><FONT SIZE=-1 FACE=ARIAL COLOR=000000>Traffic Conditions</FONT></A></TD></TR>
+<TR><TD ALIGN=LEFT><A HREF="javascript:nwpage1('/cgi/constructionnew.cgi')"><FONT SIZE=-1 FACE=ARIAL COLOR=000000>Construction Zones</FONT></A></TD></TR>
+<TR><TD ALIGN=LEFT><A HREF="javascript:nwpage2('/cgi/accidentnew.cgi')"><FONT SIZE=-1 FACE=ARIAL COLOR=000000>Accidents/Other Activity</FONT></A></TD></TR>
+<TR><TD ALIGN=LEFT><A HREF=/stadium.php><FONT SIZE=-1 FACE=ARIAL COLOR=000000>Stadium Complex Info</FONT></A></TD></TR>
+<TR><TD HEIGHT=10></TD></TR>
+<TR>
+  <TD ALIGN=CENTER><A HREF="javascript:nwpage3('/camaccess1.html')" BORDER=0><IMG SRC=/images/snapshots.gif BORDER=0><FONT SIZE=2 FACE=ARIAL COLOR=RED><BR>Camera Images (Map)!</FONT></A></TD>
+<!--  <TD><A HREF="javascript:nwpage('/streamaccess.html')"><IMG SRC=/images/newstreams.gif></A></TD>-->
+</TR>
+<TR>
+  <TD ALIGN=CENTER><A HREF=/cameraselect.php BORDER=0><IMG SRC=/images/snapshots.gif BORDER=0><FONT SIZE=2 FACE=ARIAL COLOR=RED><BR>Camera Images (List)!</FONT></A></TD>
+</TR><TR><TD HEIGHT=10></TD></TR>
+<TR>
+  <TD ALIGN=CENTER><A HREF="javascript:nwpage4('/segaccess1.html')" BORDER=0><IMG SRC=/images/sysmap.bmp BORDER=0><FONT SIZE=2 FACE=ARIAL COLOR=RED><BR>Segment Map!</FONT></A></TD>
+</TR>
+</TR><TR><TD HEIGHT=10></TD></TR>
+<TR>
+  <TD ALIGN=CENTER><A HREF="javascript:nwpage5('/dmsaccess.html')" BORDER=0><IMG SRC=/images/dmssign.jpg BORDER=0><FONT SIZE=2 FACE=ARIAL COLOR=RED><BR>Sign Msgs!</FONT></A></TD>
+</TR>
+<TR><TD HEIGHT=10></TD></TR>
+<TR><TD ALIGN=LEFT><A HREF=/about.php><FONT SIZE=-1 FACE=ARIAL COLOR=000000>About Us/Content</FONT></A></TD></TR>
+<TR><TD ALIGN=LEFT><A HREF=/system.php><FONT SIZE=-1 FACE=ARIAL COLOR=000000>System Components/511 Codes</FONT></A></TD></TR>
+<TR><TD ALIGN=LEFT><A HREF=/faq.php><FONT SIZE=-1 FACE=ARIAL COLOR=000000>ARTIMIS FAQ</FONT></A></TD></TR>
+<TR><TD ALIGN=LEFT><A HREF=/award.php><FONT SIZE=-1 FACE=ARIAL COLOR=000000>ARTIMIS Awards</FONT></A></TD></TR>
+<TR><TD ALIGN=LEFT><A HREF=/contact.php><FONT SIZE=-1 FACE=ARIAL COLOR=000000>Contact Us</FONT></A></TD></TR>
+<TR><TD HEIGHT=25></TD></TR>
+<TR><TD ALIGN=CENTER><A HREF="javascript:nwpage('http://www.dot.state.oh.us')" BORDER=0><IMG SRC=/images/odotseal.gif BORDER=0><BR><FONT SIZE=-2 FACE=ARIAL COLOR=000000>Ohio Department of Transportation</FONT></A></TD></TR>
+<TR><TD ALIGN=CENTER><A HREF="javascript:nwpage('http://www.kytc.state.ky.us')" BORDER=0><IMG SRC=/images/kytcnewlogo.jpg VSPACE=10 BORDER=0><BR><FONT SIZE=-2 FACE=ARIAL COLOR=000000>Kentucky Transportation Cabinet</FONT></A></TD></TR>
+<TR><TD ALIGN=CENTER><A HREF="javascript:nwpage('http://www.ci.cincinnati.oh.us')" BORDER=0><IMG SRC=/images/cseal.gif BORDER=0><BR><FONT SIZE=-2 FACE=ARIAL COLOR=000000>City of Cincinnati</FONT></A></TD></TR>
+<TR><TD ALIGN=CENTER><A HREF="javascript:nwpage('http://www.fhwa.dot.gov')" BORDER=0><IMG SRC=/images/dotseal.gif BORDER=0><BR><FONT SIZE=-2 FACE=ARIAL COLOR=000000>Federal Highway Administration</FONT></A></TD></TR>
+<TR><TD ALIGN=CENTER><A HREF="javascript:nwpage('http://www.oki.org')" BORDER=0><IMG SRC=/images/okilogo.jpg BORDER=0 VSPACE=10><BR><FONT SIZE=-2 FACE=ARIAL COLOR=000000>Ohio, Kentucky, Indiana Regional Council of Governments</FONT></A></TD></TR>
+<TR><TD HEIGHT=10></TD></TR>
+<TR><TD ALIGN=CENTER><FONT SIZE=-2 FACE=ARIAL COLOR=000000><a href="mailto:Susan.Springer@dot.state.oh.us">ARTIMIS Operations Control Center</a></FONT><BR>
+<TR><TD HEIGHT=10></TD></TR>
+<TR><TD ALIGN=CENTER><FONT SIZE=-2 FACE=ARIAL COLOR=000000>508 W. Third Street<br>Cincinnati, Ohio 45202-3410<br>USA<br><br>(513) 564-6100<br>(513) 564-6127 (FAX)</FONT></TD></TR>
+<TR><TD ALIGN=CENTER><A HREF=/copyright.php><FONT SIZE=-2 FACE=ARIAL>Copyright &copy; 1997-2008 ARTIMIS</FONT></A></TD></TR>
+<TR><TD HEIGHT=10></TD></TR>
+</TABLE>
+    </TD>
+    <TD WIDTH=454 VALIGN=TOP ALIGN=CENTER>
+      <img name="refimage" src="http://cmhimg01.dot.state.oh.us/images/artimis/CCTV099.jpg" width=454 height=292 border=1 alt="Kentucky: I-275 at Airport Exit">
+      <TABLE WIDTH=454 CELLSPACING=0 CELLPADDING=0 BORDER=0>
+        <TR><TD ALIGN=CENTER WIDTH=100%><FONT FACE=ARIAL><B>Ohio: I-275 at Hamilton Ave.</B></FONT></TD></TR>
+        <TR><TD ALIGN=CENTER WIDTH=100%><FONT SIZE=-1 FACE=ARIAL><B>Mile 36.5, located on South side of I-275</B></FONT></TD></TR>
+        <TR><TD WIDTH=30><SPACER TYPE=horizontal SIZE=30></TD></TR>
+      </TABLE>
+<TABLE WIDTH=455 CELLSPACING=0 CELLPADDING=0 BORDER=0>
+<TR><TD ALIGN=CENTER WIDTH=100%><FONT COLOR=959595 SIZE=-2 FACE=ARIAL>New images are available approximately every 2-5 seconds.</FONT></TD></TR>
+<TR><TD WIDTH=30><SPACER TYPE=horizontal SIZE=30></TD>
+<TR><TD WIDTH=30></TD></TR>
+</TABLE>
+<BR>
+<TABLE WIDTH=455 CELLSPACING=0 CELLPADDING=0 BORDER=0>
+<TR<TD ALIGN=LEFT WIDTH=100%><FONT FACE=ARIAL><B>Select a camera from the list below.</B></FONT></TD></TR>
+<TR><TD WIDTH=30><SPACER TYPE=horizontal SIZE=30></TD></TR>
+</TABLE>
+<BR>
+<TABLE WIDTH=455 CELLSPACING=0 CELLPADDING=0 BORDER=0>
+<TR><TD>&nbsp;</TD><TD ALIGN=LEFT><FONT FACE=ARIAL><B>Ohio:</B></FONT></TD></TR>
+<TR><TD WIDTH=30></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera112.php">I-275 at Colerain Ave.</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera99.php">I-275 at Hamilton Ave.</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera108.php">I-275 at Winton Rd.</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera40.php">I-275 at S. R. 4</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera3.php">I-275 at S. R. 747</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera2.php">I-275 at I-75</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera101.php">I-275 at Mosteller Rd.</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera1.php">I-275 at U.S. 42</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera39.php">I-275 at Reed Hartman Highway</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera41.php">I-275 at I-71</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera38.php">I-275 at Montgomery Rd.</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera107.php">I-275 North of Wards Corner Rd.</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera105.php">I-275 at S. R. 131</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera109.php">I-275 at S. R. 32</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera110.php">I-275 at Kellogg Ave.</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+   </TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera92.php">I-71 at Kings Mills Rd.</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera96.php">I-71 at Mason-Montgomery Rd.</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera41.php">I-71 at I-275</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera71.php">I-71 at Deerfield Rd.</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera72.php">I-71 at Pfeiffer Rd.</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera73.php">I-71 at Ronald Reagan Hwy (SR 126)</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera74.php">I-71 at Montgomery Rd. (Kenwood)</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera75.php">I-71 at Euclid Ave.</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera76.php">I-71 just North of Stewart</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera77.php">I-71 at Red Bank Rd.</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera78.php">I-71 at Kennedy</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera79.php">I-71 at S.R. 562 (Norwood Lateral)</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera80.php">I-71 at Robertson</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera81.php">I-71 at Smith Rd.</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera82.php">I-71 at Dana Ave.</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera83.php">I-71 at Montgomery Rd. (Cinti)</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera84.php">I-71 over Victory Parkway</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera85.php">I-71 at Martin Luther King Jr. Dr.</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera86.php">I-71 at William Howard Taft</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera87.php">I-71 at McGregor</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera36.php">I-71 at Elsinore</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera37.php">I-71 at I-471</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera43.php">I-71 East Tunnel, North End</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera44.php">I-71 Center Tunnel, North End</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera45.php">I-71 West Tunnel, North End</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera46.php">I-71 West Tunnel, South End</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera47.php">I-71 Center Tunnel, South End</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera48.php">I-71 East Tunnel, South End</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera42.php">I-71 at US 50</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera100.php">I-71 in Downtown Cincinnati</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera35.php">I-71 at I-75</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+   </TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera90.php">I-74 at Montana Ave.</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera49.php">I-74 at I-75</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+   </TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera70.php">I-75 just South of SR 129</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera69.php">I-75 at Tylersville Rd.</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera68.php">I-75 at Cincinnati-Dayton Rd.</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera67.php">I-75 just North of Union Centre Blvd.</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera66.php">I-75 at Allen Rd.</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera2.php">I-75 at I-275</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera4.php">I-75 at Sharon Rd.</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera104.php">I-75 at Glendale-Milford</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera5.php">I-75 at Neumann Way</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera6.php">I-75 at Lockland Split</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera7.php">I-75 at Davis St. in Lockland.</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera8.php">I-75 at Galbraith Rd. in Arlington Heights</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera9.php">I-75 at Ronald Reagan Hwy (SR 126)</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera10.php">I-75 at Paddock Rd.</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera11.php">I-75 at Towne St.</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera12.php">I-75 at S.R. 562 (Norwood Lateral)</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera13.php">I-75 at Vine St. in St. Bernard</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera14.php">I-75 just North of Mitchell Ave.</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera15.php">I-75 at Mitchell Ave.</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera16.php">I-75 at Ludlow Viaduct</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera49.php">I-75 at I-74</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera93.php">I-75 South of I-74</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera18.php">I-75 at Hopple St.</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera19.php">I-75 at Western Hills Viaduct</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera20.php">I-75 at Ezzard Charles Dr.</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera91.php">I-75 at Linn St.</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera21.php">I-75 at Sixth St. in Cincinnati</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera22.php">I-75 at the Ohio River</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera35.php">I-75 at I-71</a></TD></TR>
+<TR><TD WIDTH=30></TD></TR>
+</TABLE>
+<BR>
+<TABLE WIDTH=405 CELLSPACING=0 CELLPADDING=0 BORDER=0>
+<TR><TD>&nbsp;</TD><TD ALIGN=LEFT><FONT FACE=ARIAL><B>Kentucky:</B></FONT></TD></TR>
+<TR><TD WIDTH=30></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera132.php">I-275 on US 27 Bridge</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera131.php">I-275 at I-471</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera130.php">I-275 at KY 16 (Taylor Mill)</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera129.php">I-275 South of Dixie Highway (Taylor Mill)</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera30.php">I-275 at I-71/I-75</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera51.php">I-275 at Mineola Pike.</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera52.php">I-275 approaching KY 20/Airport</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera53.php">I-275 West of Airport</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera54.php">I-275 between KY 20 & KY 237</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera55.php">I-275 at KY 237</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera56.php">I-275 at between Hebron & Petersburg</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera57.php">I-275 at Petersburg Exit</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera58.php">I-275 at between Petersburg & Indiana Line</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+   </TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera37.php">I-471 at I-71</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera103.php">I-471 at Grand Ave.</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+   </TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera23.php">I-71/I-75 on lower deck of Brent Spence Bridge</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera24.php">I-71/I-75 at 12th St. in Covington</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera25.php">I-71/I-75 at Cut-in-the-hill</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera26.php">I-71/I-75 at Kyles Lane</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera27.php">I-71/I-75 at Dixie Highway</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera28.php">I-71/I-75 just North of Buttermilk Pike</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera29.php">I-71/I-75 at Buttermilk Pike</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera30.php">I-71/I-75 at I-275</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera31.php">I-71/I-75 at Donaldson Rd.</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera32.php">I-71/I-75 at Turfway Rd.</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera33.php">I-71/I-75 at Burlington Pike</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera34.php">I-71/I-75 at U.S. 42</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera59.php">I-71/I-75 at Mt. Zion Rd.</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera60.php">I-71/I-75 just North of the Richwood Exit</a></TD></TR>
+<TR><TD WIDTH=30 HEIGHT=20><SPACER TYPE=horizontal SIZE=30></TD><TD ALIGN=LEFT WIDTH=375>
+<a href="/camera/camera61.php">I-71/I-75 Split</a></TD></TR>
+<TR><TD WIDTH=30></TD></TR>
+</TABLE>
+    </td>
+  </TR>
+  <TR>
+    <TD COLSPAN=2 WIDTH=150 VALIGN=TOP BGCOLOR=ccccff ALIGN=CENTER>
+<TR><TD WIDTH=75 ALIGN=LEFT VALIGN=BOTTOM BGCOLOR=ccccff><IMG SRC=/images/bleft.gif></TD><TD WIDTH=75 ALIGN=RIGHT VALIGN=BOTTOM BGCOLOR=ccccff><IMG SRC=/images/bright.gif></TD><TD WIDTH=480 ALIGN=CENTER><BR><A HREF=/copyright.php><FONT COLOR=959595 SIZE=-2 FACE=ARIAL>Copyright &copy; 1997-2008 ARTIMIS</FONT></A></TD></TR>
+
+    </TD>
+  </TR>
+</TABLE>
+
+</body>
+</html>

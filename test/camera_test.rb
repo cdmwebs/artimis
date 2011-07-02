@@ -6,7 +6,7 @@ describe Artimis::Camera do
       @cameras = Artimis::Camera.all
     end
 
-    it "should return a list of cameras" do
+    it "returns a list of cameras" do
       @cameras.wont_be_nil
     end
 
@@ -21,12 +21,12 @@ describe Artimis::Camera do
         @cameras = Artimis::Camera.find(:description => /Hamilton/)
       end
 
-      it "should return an array of cameras" do
+      it "returns an array of cameras" do
         @cameras.must_be_instance_of Array
       end
 
-      it "should have cameras that only match 'Hamilton'" do
-        @cameras.first.text.must_match /Hamilton/i
+      it "returns only cameras that match 'Hamilton'" do
+        @cameras.first.description.must_match /Hamilton/i
       end
     end
 
@@ -35,7 +35,7 @@ describe Artimis::Camera do
         @camera = Artimis::Camera.find(:id => 23)
       end
 
-      it "should return a single camera" do
+      it "returns a single camera" do
         @camera.description.must_match /brent spence/i
       end
     end
@@ -44,12 +44,11 @@ describe Artimis::Camera do
   describe "creating a camera" do
     before do
       @agent = Mechanize.new
-      @file = "file://#{File.join(File.expand_path(File.dirname(__FILE__)), "fixtures", "camera132.html")}"
-      @page = @agent.get(@file)
+      @page = @agent.get("http://www.artimis.org/camera/camera23.php")
       @camera = Artimis::Camera.new(@page)
     end
 
-    it "should assign the image_url" do
+    it "assigns the image_url" do
       @camera.image_url.wont_be_nil
     end
   end
@@ -59,11 +58,13 @@ describe Artimis::Camera do
       @camera = Artimis::Camera.find(:id => 23)
     end
 
-    it "should have an url" do
+    it "has a URL" do
       @camera.url.must_match /\/camera/
     end
 
-    it "should have an image_url" do
+    it "has an image_url" do
+      @camera.image_url.wont_be_nil
+      @camera.image_url.must_match /\.jpg$/
     end
   end
 end

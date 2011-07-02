@@ -1,20 +1,17 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<HTML lang="en-US">
-<HEAD>
+HTTP/1.1 200 OK
+Date: Sat, 02 Jul 2011 03:03:46 GMT
+Server: Apache/2.0.52 (Red Hat)
+X-Powered-By: PHP/4.3.9
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
 
-  <TITLE>ARTIMIS Camera Page</TITLE>
-  <meta http-equiv="content-type" content="text/html;charset=iso-8859-1" />
-  <meta name="classification" content="Traffic Management Systems, Intelligent Transportation Systems" />
-  <meta name="keywords" content="ARTIMIS, Cincinnati, Northern Kentucky, CCTV, Camera" />
-  <meta name="generator" content="Greater Cincinnati-Northern Kentucky Traffic Information" />
-  <meta name="author" content="R. Scott Evans" />
-  <link rel="shortcut icon"  type="image/ico" href="/favicon.ico" />
-  <script type="text/javascript" language="Javascript">
-  <!--
-  image_name = "http://cmhimg01.dot.state.oh.us/images/artimis/CCTV132.jpg";
-  // -->
-  </script>
-  <script type="text/javascript" src="/ReloadImage.js"></script>
+<HTML>
+<!-- This is the camera page for the ARTIMIS site. -->
+<!-- Rehosted on 20 Apr 2001                       -->
+<!-- R.S. Evans, TRW with excellent support from   -->
+<!-- Jerry Behrendt from Voyager.                  -->
+<HEAD>
 <script language="javascript">
 function nwpage(cpage) {
   var someFeatures = 'resizable=yes,toolbar=yes,location=0,directories=0,status=no,menubar=no,scrollbars=yes,copyhistory=0';
@@ -83,22 +80,20 @@ function poppage1(cpage) {
   myWindow.location = thePageName;
 }
 </script>
-
+<TITLE>Current Cincinnati Cameras</TITLE>
+<META NAME=REFRESH CONTENT=100>
 </HEAD>
-<BODY BGCOLOR=WHITE TEXT=BLACK ALINK=GREEN VLINK=BLUE LINK=RED onLoad="reloadImage()">
+
+<BODY BGCOLOR=WHITE TEXT=BLACK ALINK=GREEN VLINK=BLUE LINK=RED>
+
 
 <TABLE WIDTH=630 CELLSPACING=0 CELLPADDING=0 BORDER=0 ALIGN=CENTER>
-  <TR>
-    <TD WIDTH=75 ALIGN=LEFT VALIGN=TOP BGCOLOR=ccccff><IMG SRC=/images/tleft.gif></TD>
-    <TD WIDTH=75 ALIGN=RIGHT VALIGN=TOP BGCOLOR=ccccff><IMG SRC=/images/tright.gif></TD>
-    <TD WIDTH=480 ALIGN=CENTER ROWSPAN=2><IMG SRC=/images/small.gif></TD>
-  </TR>
-  <TR>
-    <TD COLSPAN=2 WIDTH=150 VALIGN=TOP BGCOLOR=ccccff ALIGN=CENTER VALIGN=CENTER>
-February 10, 2011<BR>05:15 PM    </TD>
-  </TR>
-  <TR>
-    <TD COLSPAN=2 WIDTH=150 VALIGN=TOP BGCOLOR=ccccff ALIGN=CENTER>
+<TR><TD WIDTH=75 ALIGN=LEFT VALIGN=TOP BGCOLOR=ccccff><IMG SRC=/images/tleft.gif></TD>
+<TD WIDTH=75 ALIGN=RIGHT VALIGN=TOP BGCOLOR=ccccff><IMG SRC=/images/tright.gif></TD>
+<TD WIDTH=480 ALIGN=CENTER ROWSPAN=2><IMG SRC=/images/small.gif></TD></TR>
+<TR><TD COLSPAN=2 WIDTH=150 VALIGN=TOP BGCOLOR=ccccff ALIGN=CENTER VALIGN=CENTER>
+July 01, 2011<BR>11:03 PM</TD></TR>
+<TR><TD COLSPAN=2 WIDTH=150 VALIGN=TOP BGCOLOR=ccccff ALIGN=CENTER>
 <TABLE WIDTH=100% CELLPADDING=2 BORDER=0 CELLSPACING=0>
 <TR><TD ALIGN=LEFT><A HREF=/index.php><FONT SIZE=-1 FACE=ARIAL COLOR=000000>Home</FONT></A></TD></TR>
 <TR><TD HEIGHT=10></TD></TR>
@@ -140,14 +135,10 @@ February 10, 2011<BR>05:15 PM    </TD>
 <TR><TD ALIGN=CENTER><A HREF=/copyright.php><FONT SIZE=-2 FACE=ARIAL>Copyright &copy; 1997-2008 ARTIMIS</FONT></A></TD></TR>
 <TR><TD HEIGHT=10></TD></TR>
 </TABLE>
-    </TD>
-    <TD WIDTH=454 VALIGN=TOP ALIGN=CENTER>
-      <img name="refimage" src="http://cmhimg01.dot.state.oh.us/images/artimis/CCTV132.jpg" width=454 height=292 border=1 alt="Kentucky: I-275 on US 27 Bridge">
-      <TABLE WIDTH=454 CELLSPACING=0 CELLPADDING=0 BORDER=0>
-        <TR><TD ALIGN=CENTER WIDTH=100%><FONT FACE=ARIAL><B>Kentucky: I-275 on US 27 Bridge</B></FONT></TD></TR>
-        <TR><TD ALIGN=CENTER WIDTH=100%><FONT SIZE=-1 FACE=ARIAL><B>Mile 74.1, located on South side of I-275</B></FONT></TD></TR>
-        <TR><TD WIDTH=30><SPACER TYPE=horizontal SIZE=30></TD></TR>
-      </TABLE>
+</TD>
+<TD WIDTH=480>
+<HR WIDTH=75%>
+<BR>
 <TABLE WIDTH=455 CELLSPACING=0 CELLPADDING=0 BORDER=0>
 <TR><TD ALIGN=CENTER WIDTH=100%><FONT COLOR=959595 SIZE=-2 FACE=ARIAL>New images are available approximately every 2-5 seconds.</FONT></TD></TR>
 <TR><TD WIDTH=30><SPACER TYPE=horizontal SIZE=30></TD>
@@ -394,14 +385,11 @@ February 10, 2011<BR>05:15 PM    </TD>
 <a href="/camera/camera61.php">I-71/I-75 Split</a></TD></TR>
 <TR><TD WIDTH=30></TD></TR>
 </TABLE>
-    </td>
-  </TR>
-  <TR>
-    <TD COLSPAN=2 WIDTH=150 VALIGN=TOP BGCOLOR=ccccff ALIGN=CENTER>
+<BR><BR>
+
+</TD></TR>
 <TR><TD WIDTH=75 ALIGN=LEFT VALIGN=BOTTOM BGCOLOR=ccccff><IMG SRC=/images/bleft.gif></TD><TD WIDTH=75 ALIGN=RIGHT VALIGN=BOTTOM BGCOLOR=ccccff><IMG SRC=/images/bright.gif></TD><TD WIDTH=480 ALIGN=CENTER><BR><A HREF=/copyright.php><FONT COLOR=959595 SIZE=-2 FACE=ARIAL>Copyright &copy; 1997-2008 ARTIMIS</FONT></A></TD></TR>
 
-    </TD>
-  </TR>
 </TABLE>
 
 </body>
